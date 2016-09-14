@@ -1,0 +1,12 @@
+/*
+Theme Name: Twenty Sixteen Child Theme
+Theme URI: http://cuen.sgedu.site/wp1/twentysixteen-child/
+Description: A child theme of the Twenty Sixteen default WordPress theme
+Author: Cue Nguyen
+Author URI: http://cuen.sgedu.site/
+Template: twentysixteen
+Version: 1.0.0
+Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog
+*/
+
+h1 {color:blue;}

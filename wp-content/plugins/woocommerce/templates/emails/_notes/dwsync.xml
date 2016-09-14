@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin-cancelled-order.php" server="cuen.sgedu.site/www/" local="131183085522023273" remote="131153224800000000" Dst="0" />
+<file name="admin-failed-order.php" server="cuen.sgedu.site/www/" local="131183085526227265" remote="131153224800000000" Dst="0" />
+<file name="admin-new-order.php" server="cuen.sgedu.site/www/" local="131183085529450372" remote="131153224800000000" Dst="0" />
+<file name="customer-invoice.php" server="cuen.sgedu.site/www/" local="131183085536897389" remote="131153224800000000" Dst="0" />
+<file name="customer-new-account.php" server="cuen.sgedu.site/www/" local="131183085541151428" remote="131153224800000000" Dst="0" />
+<file name="customer-completed-order.php" server="cuen.sgedu.site/www/" local="131183085542933118" remote="131153224800000000" Dst="0" />
+<file name="customer-note.php" server="cuen.sgedu.site/www/" local="131183085551451192" remote="131153224800000000" Dst="0" />
+<file name="customer-processing-order.php" server="cuen.sgedu.site/www/" local="131183085557486930" remote="131153224800000000" Dst="0" />
+<file name="customer-on-hold-order.php" server="cuen.sgedu.site/www/" local="131183085562842177" remote="131153224800000000" Dst="0" />
+<file name="customer-refunded-order.php" server="cuen.sgedu.site/www/" local="131183085564834084" remote="131153224800000000" Dst="0" />
+<file name="customer-reset-password.php" server="cuen.sgedu.site/www/" local="131183085568086970" remote="131153224800000000" Dst="0" />
+<file name="email-addresses.php" server="cuen.sgedu.site/www/" local="131183085574653225" remote="131153224800000000" Dst="0" />
+<file name="email-customer-details.php" server="cuen.sgedu.site/www/" local="131183085574663239" remote="131153224800000000" Dst="0" />
+<file name="email-footer.php" server="cuen.sgedu.site/www/" local="131183085579157465" remote="131153224800000000" Dst="0" />
+<file name="email-header.php" server="cuen.sgedu.site/www/" local="131183085585023032" remote="131153224800000000" Dst="0" />
+<file name="email-order-details.php" server="cuen.sgedu.site/www/" local="131183085585043056" remote="131153224800000000" Dst="0" />
+<file name="email-order-items.php" server="cuen.sgedu.site/www/" local="131183085589947730" remote="131153224800000000" Dst="0" />
+<file name="email-styles.php" server="cuen.sgedu.site/www/" local="131183085595042530" remote="131153224800000000" Dst="0" />
+</dwsync>

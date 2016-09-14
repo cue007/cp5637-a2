@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.jetpack-json-api-check-capabilities-endpoint.php" server="cuen.sgedu.site/www/" local="131183079525496119" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-core-endpoint.php" server="cuen.sgedu.site/www/" local="131183079530821161" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-core-modify-endpoint.php" server="cuen.sgedu.site/www/" local="131183079531321649" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-endpoint.php" server="cuen.sgedu.site/www/" local="131183079535775860" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-log-endpoint.php" server="cuen.sgedu.site/www/" local="131183079545875438" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-maybe-auto-update-endpoint.php" server="cuen.sgedu.site/www/" local="131183079545895430" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-endpoint.php" server="cuen.sgedu.site/www/" local="131183079551150400" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-get-endpoint.php" server="cuen.sgedu.site/www/" local="131183079555814838" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-list-endpoint.php" server="cuen.sgedu.site/www/" local="131183079555824847" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-modify-endpoint.php" server="cuen.sgedu.site/www/" local="131183079563341972" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-delete-endpoint.php" server="cuen.sgedu.site/www/" local="131183079565804353" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-endpoint.php" server="cuen.sgedu.site/www/" local="131183079565834368" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-get-endpoint.php" server="cuen.sgedu.site/www/" local="131183079575663658" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-list-endpoint.php" server="cuen.sgedu.site/www/" local="131183079575683713" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-install-endpoint.php" server="cuen.sgedu.site/www/" local="131183079575713706" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-modify-endpoint.php" server="cuen.sgedu.site/www/" local="131183079585543060" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-active-endpoint.php" server="cuen.sgedu.site/www/" local="131183079585583093" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-sync-endpoint.php" server="cuen.sgedu.site/www/" local="131183079585593207" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-delete-endpoint.php" server="cuen.sgedu.site/www/" local="131183079595442421" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-get-endpoint.php" server="cuen.sgedu.site/www/" local="131183079595442421" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-endpoint.php" server="cuen.sgedu.site/www/" local="131183079595482468" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-install-endpoint.php" server="cuen.sgedu.site/www/" local="131183079605752190" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-list-endpoint.php" server="cuen.sgedu.site/www/" local="131183079605752190" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-modify-endpoint.php" server="cuen.sgedu.site/www/" local="131183079606432840" remote="131178156600000000" Dst="0" />
+<file name="class.jetpack-json-api-updates-status-endpoint.php" server="cuen.sgedu.site/www/" local="131183079615651583" remote="131178156600000000" Dst="0" />
+<file name="class.wpcom-json-api-get-option-endpoint.php" server="cuen.sgedu.site/www/" local="131183079616302200" remote="131178156600000000" Dst="0" />
+<file name="class.wpcom-json-api-update-option-endpoint.php" server="cuen.sgedu.site/www/" local="131183079616312210" remote="131178156600000000" Dst="0" />
+<file name="json-api-jetpack-endpoints.php" server="cuen.sgedu.site/www/" local="131183079631056193" remote="131178156600000000" Dst="0" />
+</dwsync>

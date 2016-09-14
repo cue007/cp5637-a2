@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessToken.php" server="cuen.sgedu.site/www/" local="131183085045851673" remote="131153224800000000" Dst="0" />
+<file name="Authorization.php" server="cuen.sgedu.site/www/" local="131183085056541808" remote="131153224800000000" Dst="0" />
+<file name="Authentication.php" server="cuen.sgedu.site/www/" local="131183085059044226" remote="131153224800000000" Dst="0" />
+<file name="CardToken.php" server="cuen.sgedu.site/www/" local="131183085061466483" remote="131153224800000000" Dst="0" />
+<file name="Chargeback.php" server="cuen.sgedu.site/www/" local="131183085066411168" remote="131153224800000000" Dst="0" />
+<file name="Constants.php" server="cuen.sgedu.site/www/" local="131183085070905439" remote="131153224800000000" Dst="0" />
+<file name="Coupon.php" server="cuen.sgedu.site/www/" local="131183085071375917" remote="131153224800000000" Dst="0" />
+<file name="Deposit.php" server="cuen.sgedu.site/www/" local="131183085081145151" remote="131153224800000000" Dst="0" />
+<file name="Event.php" server="cuen.sgedu.site/www/" local="131183085081225259" remote="131153224800000000" Dst="0" />
+<file name="Exceptions.php" server="cuen.sgedu.site/www/" local="131183085091164681" remote="131153224800000000" Dst="0" />
+<file name="FraudCheck.php" server="cuen.sgedu.site/www/" local="131183085091214696" remote="131153224800000000" Dst="0" />
+<file name="Customer.php" server="cuen.sgedu.site/www/" local="131183085100843938" remote="131153224800000000" Dst="0" />
+<file name="Http.php" server="cuen.sgedu.site/www/" local="131183085101114280" remote="131153224800000000" Dst="0" />
+<file name="Invoice.php" server="cuen.sgedu.site/www/" local="131183085103746636" remote="131153224800000000" Dst="0" />
+<file name="InvoiceItem.php" server="cuen.sgedu.site/www/" local="131183085110883491" remote="131153224800000000" Dst="0" />
+<file name="Object.php" server="cuen.sgedu.site/www/" local="131183085111113564" remote="131153224800000000" Dst="0" />
+<file name="Payment.php" server="cuen.sgedu.site/www/" local="131183085115347584" remote="131153224800000000" Dst="0" />
+<file name="PaymentsApi.php" server="cuen.sgedu.site/www/" local="131183085120963182" remote="131153224800000000" Dst="0" />
+<file name="Plan.php" server="cuen.sgedu.site/www/" local="131183085121002975" remote="131153224800000000" Dst="0" />
+<file name="Refund.php" server="cuen.sgedu.site/www/" local="131183085125487477" remote="131153224800000000" Dst="0" />
+<file name="ResourceList.php" server="cuen.sgedu.site/www/" local="131183085130862299" remote="131153224800000000" Dst="0" />
+<file name="Subscription.php" server="cuen.sgedu.site/www/" local="131183085132904521" remote="131153224800000000" Dst="0" />
+<file name="Tax.php" server="cuen.sgedu.site/www/" local="131183085135797147" remote="131153224800000000" Dst="0" />
+<file name="TransactionReview.php" server="cuen.sgedu.site/www/" local="131183085142773668" remote="131153224800000000" Dst="0" />
+<file name="Webhook.php" server="cuen.sgedu.site/www/" local="131183085143274089" remote="131153224800000000" Dst="0" />
+</dwsync>

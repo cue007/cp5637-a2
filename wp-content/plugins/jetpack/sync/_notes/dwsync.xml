@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.jetpack-sync-actions.php" server="cuen.sgedu.site/www/" local="131183082617628707" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-defaults.php" server="cuen.sgedu.site/www/" local="131183082622633490" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-functions.php" server="cuen.sgedu.site/www/" local="131183082625055760" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-json-deflate-array-codec.php" server="cuen.sgedu.site/www/" local="131183082629960403" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-listener.php" server="cuen.sgedu.site/www/" local="131183082634694893" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-attachments.php" server="cuen.sgedu.site/www/" local="131183082637147219" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-callables.php" server="cuen.sgedu.site/www/" local="131183082641551396" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-constants.php" server="cuen.sgedu.site/www/" local="131183082652902166" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-meta.php" server="cuen.sgedu.site/www/" local="131183082664903725" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-full-sync.php" server="cuen.sgedu.site/www/" local="131183082665354066" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-comments.php" server="cuen.sgedu.site/www/" local="131183082672540782" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-network-options.php" server="cuen.sgedu.site/www/" local="131183082675143269" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-options.php" server="cuen.sgedu.site/www/" local="131183082675283388" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-plugins.php" server="cuen.sgedu.site/www/" local="131183082682490259" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-posts.php" server="cuen.sgedu.site/www/" local="131183082685162780" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-protect.php" server="cuen.sgedu.site/www/" local="131183082685232824" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-stats.php" server="cuen.sgedu.site/www/" local="131183082692499712" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-terms.php" server="cuen.sgedu.site/www/" local="131183082695052137" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-themes.php" server="cuen.sgedu.site/www/" local="131183082695182260" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-updates.php" server="cuen.sgedu.site/www/" local="131183082702409155" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module-users.php" server="cuen.sgedu.site/www/" local="131183082705041611" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-module.php" server="cuen.sgedu.site/www/" local="131183082705121687" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-modules.php" server="cuen.sgedu.site/www/" local="131183082712438658" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-queue.php" server="cuen.sgedu.site/www/" local="131183082714981038" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-sender.php" server="cuen.sgedu.site/www/" local="131183082716402386" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-server.php" server="cuen.sgedu.site/www/" local="131183082722288000" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-users.php" server="cuen.sgedu.site/www/" local="131183082726381851" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-settings.php" server="cuen.sgedu.site/www/" local="131183082734980005" remote="131178156000000000" Dst="0" />
+<file name="interface.jetpack-sync-codec.php" server="cuen.sgedu.site/www/" local="131183082740695462" remote="131178156000000000" Dst="0" />
+<file name="class.jetpack-sync-wp-replicastore.php" server="cuen.sgedu.site/www/" local="131183082740735464" remote="131178156000000000" Dst="0" />
+<file name="interface.jetpack-sync-replicastore.php" server="cuen.sgedu.site/www/" local="131183082747972332" remote="131178156000000000" Dst="0" />
+</dwsync>
